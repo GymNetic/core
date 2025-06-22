@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|c:\\users\\filip\\desktop\\projeto final curso\\gymnetic.core\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|c:\\users\\filip\\desktop\\projeto final curso\\gymnetic.core\\models\\exerciseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|solutionrelative:models\\exerciseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|c:\\users\\filip\\desktop\\projeto final curso\\gymnetic.core\\models\\precustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|solutionrelative:models\\precustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|c:\\users\\filip\\desktop\\projeto final curso\\gymnetic.core\\models\\listaeif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|solutionrelative:models\\listaeif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|c:\\users\\filip\\desktop\\projeto final curso\\gymnetic.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|c:\\users\\filip\\desktop\\projeto final curso\\gymnetic.core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|c:\\users\\filip\\desktop\\projeto final curso\\gymnetic.core\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|solutionrelative:models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|c:\\users\\filip\\desktop\\projeto final curso\\gymnetic.core\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|c:\\users\\filip\\desktop\\projeto final curso\\gymnetic.core\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|c:\\users\\filip\\desktop\\projeto final curso\\gymnetic.core\\models\\gcbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|solutionrelative:models\\gcbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|c:\\users\\filip\\desktop\\projeto final curso\\gymnetic.core\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065BE106-AB0A-47D0-9301-D513311ACDE2}|GYMNETIC.Core.csproj|solutionrelative:services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListaEIF.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\Models\\ListaEIF.cs",
+              "RelativeDocumentMoniker": "Models\\ListaEIF.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\Models\\ListaEIF.cs",
+              "RelativeToolTip": "Models\\ListaEIF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:11:14.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExerciseItem.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\Models\\ExerciseItem.cs",
+              "RelativeDocumentMoniker": "Models\\ExerciseItem.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\Models\\ExerciseItem.cs",
+              "RelativeToolTip": "Models\\ExerciseItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:56:27.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\Models\\Staff.cs",
+              "RelativeToolTip": "Models\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:52:21.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PreCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\Models\\PreCustomer.cs",
+              "RelativeDocumentMoniker": "Models\\PreCustomer.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\Models\\PreCustomer.cs",
+              "RelativeToolTip": "Models\\PreCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:45:49.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:21:19.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:23:53.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T13:15:26.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAA3wEoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:13:12.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:04:47.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GCBooking.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\Models\\GCBooking.cs",
+              "RelativeDocumentMoniker": "Models\\GCBooking.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\Models\\GCBooking.cs",
+              "RelativeToolTip": "Models\\GCBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:36:39.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\filip\\Desktop\\projeto final curso\\GYMNETIC.Core\\Services\\EmailSender.cs",
+              "RelativeToolTip": "Services\\EmailSender.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAywAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:10:45.675Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
