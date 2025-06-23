@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using Microsoft.AspNetCore.Authentication.Cookies;
-using GYMNETIC.core.Services;
+using GYMNETIC.Core.Services;
 using GYMNETIC.Core.Data;
 using GYMNETIC.Core.Models;
 

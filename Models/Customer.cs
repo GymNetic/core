@@ -16,6 +16,13 @@ namespace GYMNETIC.Core.Models
         public string? LegalName { get; set; }
         public string? NIF { get; set; }
 
+        // Propriedades de associação
+        public int MonthlyPlanId { get; set; }
+        public DateTime MembershipStartDate { get; set; }
+        public DateTime MembershipEndDate { get; set; }
+        public bool IsActive { get; set; }
+        public DateTime? CancellationDate { get; set; }
+
         // 1:1
         public NutriPlan? NutriPlan { get; set; }
         public TrainingPlan? TrainingPlan { get; set; }

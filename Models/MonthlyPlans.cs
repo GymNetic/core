@@ -10,5 +10,6 @@
         public int DaysToEnter { get; set; }
         public DateTime TimetoEnter { get; set; }
         public DateTime Timetoleave { get; set; }
+        public bool IsActive { get; set; } 
     }
 }

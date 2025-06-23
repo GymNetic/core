@@ -23,17 +23,17 @@ public class MembershipsController : ControllerBase
     {
         [Required]
         [EmailAddress]
-        public string Email { get; set; }
+        public string Email { get; set; } = string.Empty;
         [Required]
-        public string FirstName { get; set; }
+        public string FirstName { get; set; } = string.Empty;
         [Required]
-        public string LastName { get; set; }
+        public string LastName { get; set; } = string.Empty;
         [Required]
-        public string AccessCode { get; set; }
+        public string AccessCode { get; set; } = string.Empty;
         [Required]
         public int MonthlyPlanId { get; set; }
         [Required]
-        public string Address { get; set; }
+        public string Address { get; set; } = string.Empty;
     }
 
     [HttpPost("precustomer")]
@@ -54,22 +54,23 @@ public class MembershipsController : ControllerBase
             IsApproved = false
         };
 
-        _context.PreCustomers.Add(preCustomer);
+        _context.PreCustomer.Add(preCustomer);
         await _context.SaveChangesAsync();
 
         return Ok(preCustomer);
     }
+
     [HttpPost("precustomer/{id}/approve")]
     public async Task<IActionResult> ApprovePreCustomer(int id)
     {
-        var preCustomer = await _context.PreCustomers.FindAsync(id);
+        var preCustomer = await _context.PreCustomer.FindAsync(id);
         if (preCustomer == null)
             return NotFound();
 
         if (preCustomer.IsApproved)
             return BadRequest("Já aprovado.");
 
-        preCustomer.AccessCode = Guid.NewGuid().ToString("N").Substring(0, 8).ToUpper();
+        preCustomer.AccessCode = Guid.NewGuid().ToString("N")[..8].ToUpper();
         preCustomer.IsApproved = true;
 
         await _context.SaveChangesAsync();
