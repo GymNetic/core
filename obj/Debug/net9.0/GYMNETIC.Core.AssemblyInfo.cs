@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GYMNETIC.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9022d70d84c74985d03f30a2d7e8c7e674eba90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+734261a02104e50f412c45c0eb1ca17cff206076")]
 [assembly: System.Reflection.AssemblyProductAttribute("GYMNETIC.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GYMNETIC.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

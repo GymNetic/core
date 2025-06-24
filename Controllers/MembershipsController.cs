@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using GYMNETIC.Core.Data;
 using GYMNETIC.Core.Models;
 using GYMNETIC.Core.Services;
+using Microsoft.AspNetCore.Identity.UI.Services;
 
 namespace GYMNETIC.Core.Controllers;
 
